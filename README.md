@@ -1,4 +1,4 @@
-# js-pingpong
+# js-indexpp
 <!DOCTYPE html>
 <html lang="en">
   <head>
